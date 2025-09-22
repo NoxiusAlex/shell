@@ -87,7 +87,7 @@ ColumnLayout {
         Layout.topMargin: Appearance.spacing.large * 2
         Layout.alignment: Qt.AlignHCenter
 
-        implicitWidth: root.centerWidth / 2
+        implicitWidth: root.centerWidth
         implicitHeight: root.centerWidth / 2
 
         color: Colours.tPalette.m3surfaceContainer
